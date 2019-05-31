@@ -1,0 +1,19 @@
+{"config": {
+    "jira": {
+        "base_url": "http://myjira.com",
+        "username": "kerem.koseoglu",
+        "password": "123"
+    },
+    "mac": {
+        "tmp_file": "/Users/kerem/Downloads/j2t.txt"
+    },
+    "note": {
+        "comment_count": 3
+    },
+    "trello": {
+        "api_key": "999999ec6a8d207db2523eb71853fd6e",
+	    "token": "99999997f114776dda992f8183c6055fd25a154ff37829a1be89bea1b0d45e87",
+	    "board": "999999d06156322e3f0d0e87",
+	    "list": "999999f6bcade471619f467d"
+    }
+}}
